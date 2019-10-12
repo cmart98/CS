@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Chris\source\repos\cs251-pj4\cs251-pj4\Source.cpp(48,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Chris\source\repos\cs251-pj4\cs251-pj4\Source.cpp(69,23): warning C4018: '<': signed/unsigned mismatch
+  cs251-pj4.vcxproj -> C:\Users\Chris\source\repos\cs251-pj4\Debug\cs251-pj4.exe
